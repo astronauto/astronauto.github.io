@@ -1,1 +1,1 @@
-# astronauto.github.com
+# astronauto.github.io
